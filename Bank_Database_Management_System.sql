@@ -1,0 +1,1 @@
+SELECT * FROM bms_db.customer_reference_info;
